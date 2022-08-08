@@ -1,6 +1,6 @@
 default_chain: stride
 chains:
-  gaia-testnet:
+  gaia:
     key: wallet
     chain-id: GAIA
     rpc-addr: http://95.217.210.247:23657         
