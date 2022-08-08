@@ -15,7 +15,7 @@ chains:
     block-timeout: ""
     output-format: json
     sign-mode: direct
-  stride-testnet:
+  stride:
     key: wallet
     chain-id: STRIDE-TESTNET-2
     rpc-addr: http://65.109.27.70:16657      
